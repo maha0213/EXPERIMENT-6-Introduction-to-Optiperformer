@@ -1,5 +1,5 @@
 
-Exp 6 Simulation of Optical Communication System
+## Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Objective
 Download and install OptiPerformer software on your computer and run a sample file.
@@ -58,34 +58,10 @@ The system includes:
 ---
 
 ## Report
-
-1. Cover sheet (as per attached example).  
-2. Tabulation of received power, Q factor, and BER for 5 fiber lengths.  
-3. Plot of received power, Q factor, and BER vs. fiber length.  
-4. Description of eye diagram changes with increasing fiber length.
-
----
+![WhatsApp Image 2025-11-18 at 22 11 29_81063815](https://github.com/user-attachments/assets/a1041b6f-1489-423b-a73a-54796fdfed03)
 
 ## Tabulation
-
-**Transmission Analysis Across Fiber Lengths**
-
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-
----
-
-## Graphs
-
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
-
----
+![WhatsApp Image 2025-11-18 at 22 12 33_00e774c4](https://github.com/user-attachments/assets/2361f283-f9b1-4ff4-907f-c23855a7c084)
 
 ## RESULT
-
-*(Summarize key findings from simulation and analysis)*
+Thus the simulation of optical communication system is successfully verified with BER analyzer.
